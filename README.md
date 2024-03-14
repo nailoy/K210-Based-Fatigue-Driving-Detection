@@ -4,7 +4,6 @@
 本项目基于Maix版K210开发  
 官方说明文档：https://wiki.sipeed.com/soft/maixpy/zh/index.html  
 Maix IDE下载链接：https://dl.sipeed.com/MAIX/MaixPy/ide/  
-路径如下：download_station_file>MAIX>MaixPy>ide>v0.2.5  
 
 ## 2. 程序说明
 main.py: 主程序代码  
